@@ -1,4 +1,4 @@
-# Phân tích dữ liệu hỗ trợ định giá nhà riêng tại TP. HCM
+# Phân tích dữ liệu hỗ trợ định giá nhà riêng tại TP. HCM dựa trên đặc điểm vị trí và diện tích
 **Môn:** Nhập môn Khoa học dữ liệu  
 **GVHD:** ThS. Hồ Ngọc Giàu
 
